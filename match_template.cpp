@@ -546,3 +546,4 @@ int GetPyrdownTime(CvSize iTemplateSize,
 	
 	return nRet;
 }
+
