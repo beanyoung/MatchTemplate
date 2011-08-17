@@ -149,3 +149,4 @@ int GetPyrdownTime(CvSize iTemplateSize,
 				   int nMinLength);
 
 #endif
+
